@@ -1,0 +1,16 @@
+{
+  "Environments": [
+    {
+      "Name": "UAT",
+      "Url": "https://tfl.gov.uk/plan-a-journey/?cid=plan-a-journey",
+      "ResultUrl": "",
+      "ConnectionString": ""
+    },
+    {
+      "Name": "QA",
+      "Url": "https://tfl.gov.uk/plan-a-journey/?cid=plan-a-journey",
+      "ResultUrl": "https://tfl.gov.uk/plan-a-journey/results?InputFrom=Leicester+Square+Underground+Station&FromId=1000135&InputTo=Covent+Garden+Underground+Station&ToId=1000056",
+      "ConnectionString": ""
+    }
+  ]
+}
